@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1778313954195,
+    "merchantName": "WhitefiledCafe Bengaluru",
+    "campaignTitle": "Buy 1 Get 1 Coffee",
+    "rewardType": "Loyalty Stamp",
+    "discount": "20%",
+    "status": "Active",
+    "validTill": "2026-06-20",
+    "customerReach": 500,
+    "createdAt": "2026-05-09T08:05:54.195Z",
+    "updatedAt": "2026-05-09T08:20:23.083Z"
+  },
+  {
+    "id": 1778313986946,
+    "merchantName": "Pizza Hub",
+    "campaignTitle": "Weekend Combo Offer",
+    "rewardType": "Coupon",
+    "discount": "15%",
+    "status": "Active",
+    "validTill": "2026-07-10",
+    "customerReach": 1200,
+    "createdAt": "2026-05-09T08:06:26.946Z"
+  }
+]
